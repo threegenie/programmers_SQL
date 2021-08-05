@@ -3,7 +3,7 @@
 
 |영역|문제링크|풀이링크|
 |:------|:------|:------|
-|SELECT|[문제링크](https://programmers.co.kr/learn/courses/30/parts/17042)|풀이링크(https://github.com/threegenie/programmers_SQL/blob/main/SELECT.md)|
+|SELECT|[문제링크](https://programmers.co.kr/learn/courses/30/parts/17042)|[풀이링크](https://github.com/threegenie/programmers_SQL/blob/main/SELECT.md)|
 |SUM,MAX,MIN|[문제링크](https://programmers.co.kr/learn/courses/30/parts/17043)|풀이링크|
 |GROUP BY|[문제링크](https://programmers.co.kr/learn/courses/30/parts/17044)|풀이링크|
 |IS NULL|[문제링크](https://programmers.co.kr/learn/courses/30/parts/17045)|풀이링크|
